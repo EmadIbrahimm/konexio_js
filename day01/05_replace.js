@@ -1,3 +1,3 @@
 var food = 'croissant is ok'
-replace.food = ( 'croissant is ok' , 'croissant is amazing' );
-console.log(food)
+food = food.replace ('ok', 'amazing');
+console.log(food);

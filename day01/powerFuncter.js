@@ -1,0 +1,1 @@
+function powerFuncter (num,power)

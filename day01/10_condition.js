@@ -1,3 +1,8 @@
-var password = 'azerty'
-toString(password);
-console.log(password)
+var password = 'azerty';
+if (password.length > 5) {
+console.log('the password has more than five characters');
+
+}
+else{
+    console.log('the password has more than five charecters or not')
+}
