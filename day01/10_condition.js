@@ -1,5 +1,5 @@
 var password = 'azerty';
-if (password.length > 5) {
+if (password.length > 7) {
 console.log('the password has more than five characters');
 
 }

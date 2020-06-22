@@ -1,2 +1,5 @@
-var counting = "life is awesome";
-console.log(counting.length)
+
+// var test = 'what a wonderful world';
+  // var capitalizedS = test[0]
+  // .toUpperCase() + test.slice(1).toLocaleLowerCase(); 
+  // console.log(capitalizedS)
